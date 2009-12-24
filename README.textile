@@ -1,0 +1,21 @@
+h1. Reloader
+
+This is a painless boilerplate code to start designing Web sites in "Haml":http://haml-lang.com/, "Sass":http://sass-lang.com/ and "Compass":http://compass-style.org/. 
+
+h2. Dependencies
+
+You'd want to install the following dependencies to get the engines running.
+
+@sudo gem install sinatra shotgun haml compass@
+
+h2. Rollin' it
+
+Open up Terminal and fire up @shotgun site.rb@. Browsers will now answer to every refresh with reloaded styles. Open up @views@ in your favorite text editor and you're ready to go.
+
+That's all there is to it.
+
+h2. Why?
+
+This is supposed to be a helping tool during designing web pages. The files would probably be copied manually outside somewhere when finished.
+
+I use this to design my websites before coding anything, helping me focus on design by just refreshing the page (like old-school HTML/CSS). 
